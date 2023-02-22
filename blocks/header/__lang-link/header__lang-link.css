@@ -1,0 +1,12 @@
+.header__lang-link {
+  margin: 0;
+  padding: 0;
+  color: #f2f2f2;
+  text-decoration: none;
+  list-style-type: none;
+  justify-content: end;
+  transition: opacity .4s linear;
+}
+.header__lang-link:hover {
+  opacity: .8;
+}
